@@ -1,0 +1,118 @@
+{
+  "chassis": {
+    "name": "Chameleon",
+    "variant": "CLN-7V",
+    "tonnage": 50,
+    "tech_level": "Introductory",
+    "era": "Succession Wars (3025)"
+  },
+  "engine": {
+    "type": "Standard",
+    "rating": 300,
+    "speed": {
+      "walking_mp": 6,
+      "running_mp": 9,
+      "jump_mp": 6
+    }
+  },
+  "structure": {
+    "type": "Standard Internal Structure",
+    "gyro": "Standard Gyro",
+    "cockpit": "Standard Cockpit"
+  },
+  "heat_sinks": {
+    "type": "Single",
+    "count": 10,
+    "internal_to_engine": 10,
+    "external": 0
+  },
+  "armor": {
+    "type": "Standard",
+    "total_points": 104,
+    "allocations": {
+      "head": 9,
+      "center_torso": 16,
+      "center_torso_rear": 4,
+      "left_torso": 12,
+      "left_torso_rear": 4,
+      "right_torso": 12,
+      "right_torso_rear": 4,
+      "left_arm": 10,
+      "right_arm": 10,
+      "left_leg": 11,
+      "right_leg": 11
+    }
+  },
+  "weapons_and_equipment": [
+    {
+      "id": "w_001",
+      "name": "Large Laser",
+      "location": "Right Arm",
+      "heat": 8,
+      "damage": 8,
+      "range": { "short": 5, "medium": 10, "long": 15 },
+      "critical_slots": 2,
+      "tonnage": 5.0
+    },
+    {
+      "id": "w_002",
+      "name": "Medium Laser",
+      "location": "Left Arm",
+      "heat": 3,
+      "damage": 5,
+      "range": { "short": 3, "medium": 6, "long": 9 },
+      "critical_slots": 1,
+      "tonnage": 1.0
+    },
+    {
+      "id": "w_003",
+      "name": "Medium Laser",
+      "location": "Torso (Center)",
+      "heat": 3,
+      "damage": 5,
+      "range": { "short": 3, "medium": 6, "long": 9 },
+      "critical_slots": 1,
+      "tonnage": 1.0
+    },
+    {
+      "id": "w_004",
+      "name": "Small Laser",
+      "location": "Torso (Right)",
+      "heat": 1,
+      "damage": 2,
+      "range": { "short": 1, "medium": 2, "long": 3 },
+      "critical_slots": 1,
+      "tonnage": 0.5
+    },
+    {
+      "id": "w_005",
+      "name": "Small Laser",
+      "location": "Torso (Left)",
+      "heat": 1,
+      "damage": 2,
+      "range": { "short": 1, "medium": 2, "long": 3 },
+      "critical_slots": 1,
+      "tonnage": 0.5
+    },
+    {
+      "id": "e_001",
+      "name": "Jump Jet",
+      "location": "Left Torso",
+      "count": 3,
+      "critical_slots": 3,
+      "tonnage": 1.5
+    },
+    {
+      "id": "e_002",
+      "name": "Jump Jet",
+      "location": "Right Torso",
+      "count": 3,
+      "critical_slots": 3,
+      "tonnage": 1.5
+    }
+  ],
+  "calculations": {
+    "total_battle_value": 952,
+    "total_cost_cbills": 4252500
+  }
+}
