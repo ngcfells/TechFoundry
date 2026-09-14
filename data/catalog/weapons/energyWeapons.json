@@ -1,1 +1,1160 @@
-json stuff
+{
+  "weapons": [
+    {
+      "id": "w_energy_is_small_laser",
+      "name": "Small Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 0.5,
+      "slots": 1,
+      "heat": 1,
+      "damage": 3,
+      "range": { "short": 1, "medium": 2, "long": 3 },
+      "tech_rating": "Introductory",
+      "_comment": "Flags potentially available are: 'royal_sldf', 'lostech', 'cache_loot', 'requires_ammo', and 'prototype'. Others will be added.",
+      "flags": [],
+      "availability": {
+        "introduced": 2300,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Standard Star League tech baseline; remains ubiquitous across the Inner Sphere and Periphery."
+      }
+    },
+    {
+      "id": "w_energy_clan_small_laser",
+      "name": "Small Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 0.5,
+      "slots": 1,
+      "heat": 1,
+      "damage": 3,
+      "range": { "short": 1, "medium": 2, "long": 3 },
+      "tech_rating": "Introductory",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 2793,
+        "extinct": 2870,
+        "reintroduced": null,
+        "notes": "Inherited Star League stock and intitial manufacturing runs used during the early Clan eras. Phased out completely during the Golden Century in favor of ER replacements."
+      }
+    },
+    {
+      "id": "w_energy_clan_er_small_laser",
+      "name": "ER Small Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 0.5,
+      "slots": 1,
+      "heat": 2,
+      "damage": 5,
+      "range": { "short": 2, "medium": 4, "long": 6 },
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 2820,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed right after Operation KLONDIKE; standardizes as the true Clan backup laser."
+      }
+    },
+    {
+      "id": "w_energy_is_er_small_laser",
+      "name": "ER Small Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 0.5,
+      "slots": 1,
+      "heat": 2,
+      "damage": 3,
+      "range": { "min": null, "short": 2, "medium": 4, "long": 5 },
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 3058,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by the Inner Sphere after analyzing captured Clan ER laser optics."
+      }
+    },
+    {
+      "id": "w_energy_is_small_pulse_laser",
+      "name": "Small Pulse Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 1.0,
+      "slots": 1,
+      "heat": 2,
+      "damage": 3,
+      "range": { "min": null, "short": 1, "medium": 2, "long": 3 },
+      "to_hit_modifier": -2,
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": ["lostech"],
+      "availability": {
+        "introduced": 2609,
+        "extinct": 2792,
+        "reintroduced": 3037,
+        "notes": "Lostech during the First Succession War. Reintroduced following the recovery of the Helm Memory Core."
+      }
+    },
+    {
+      "id": "w_energy_clan_small_pulse_laser",
+      "name": "Small Pulse Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 0.5,
+      "slots": 1,
+      "heat": 2,
+      "damage": 3,
+      "range": { "min": null, "short": 2, "medium": 4, "long": 6 },
+      "to_hit_modifier": -2,
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 2823,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Significantly lighter and longer-ranged than its Inner Sphere predecessor."
+      }
+    },
+    {
+      "id": "w_energy_clan_heavy_small_laser",
+      "name": "Heavy Small Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 0.5,
+      "slots": 1,
+      "heat": 3,
+      "damage": 6,
+      "range": { "min": null, "short": 1, "medium": 2, "long": 3 },
+      "to_hit_modifier": 1,
+      "tech_rating": "Advanced",
+      "_comment": "Heavy lasers impose a +1 to-hit penalty due to visual distortion caused by high power throughput.",
+      "flags": [],
+      "availability": {
+        "introduced": 3059,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by Clan Star Adder during the mid-Clan era to maximize close-range damage output."
+      }
+    },
+    {
+      "id": "w_energy_is_small_x_pulse_laser",
+      "name": "Small X-Pulse Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 1.0,
+      "slots": 1,
+      "heat": 3,
+      "damage": 3,
+      "range": { "min": null, "short": 2, "medium": 4, "long": 5 },
+      "to_hit_modifier": -2,
+      "tech_rating": "Experimental",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 3057,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by NAIS in an effort to stretch Pulse Laser ranges to compete with Clan technology."
+      }
+    },
+    {
+      "id": "w_energy_clan_er_small_pulse_laser",
+      "name": "ER Small Pulse Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 1.5,
+      "slots": 1,
+      "heat": 3,
+      "damage": 5,
+      "range": { "min": null, "short": 2, "medium": 4, "long": 6 },
+      "to_hit_modifier": -1,
+      "tech_rating": "Experimental",
+      "_comment": "ER Pulse variants yield a reduced accuracy bonus (-1 instead of -2).",
+      "flags": [],
+      "availability": {
+        "introduced": 3057,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by Clan Wolf just prior to the Refusal War; failed to enter widespread production due to shifting resources."
+      }
+    },
+    {
+      "id": "w_energy_clan_small_chemical_laser",
+      "name": "Small Chemical Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 0.5,
+      "slots": 1,
+      "heat": 0,
+      "damage": 3,
+      "range": { "min": null, "short": 1, "medium": 2, "long": 3 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Requires ammunition tracking. Generates 0 heat for BattleMechs/ProtoMechs.",
+      "flags": ["requires_ammo"],
+      "availability": {
+        "introduced": 3061,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by Clan Hell's Horses for vehicle and ProtoMech use where electrical power infrastructure is scarce."
+      }
+    },
+    {
+      "id": "w_energy_is_medium_laser",
+      "name": "Medium Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 1.0,
+      "slots": 1,
+      "heat": 3,
+      "damage": 5,
+      "range": { "min": null, "short": 3, "medium": 6, "long": 9 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Introductory",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 2300,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Ubiquitous, high efficiency baseline weapon; the standard by which all other weapons are judged."
+      }
+    },
+    {
+      "id": "w_energy_clan_standard_medium_laser",
+      "name": "Standard Medium Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 1.0,
+      "slots": 1,
+      "heat": 3,
+      "damage": 5,
+      "range": { "min": null, "short": 3, "medium": 6, "long": 9 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Introductory",
+      "_comment": "",
+      "flags": ["cache_loot"],
+      "availability": {
+        "introduced": 2810,
+        "extinct": 2870,
+        "reintroduced": null,
+        "notes": "Inherited Star League stock used during early Clan eras. Completely phased out in favor of the ER Medium Laser."
+      }
+    },
+    {
+      "id": "w_energy_is_er_medium_laser",
+      "name": "ER Medium Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 1.0,
+      "slots": 1,
+      "heat": 5,
+      "damage": 5,
+      "range": { "min": null, "short": 4, "medium": 8, "long": 12 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 3058,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by the Inner Sphere to expand mid-range firepower options following the Clan Invasion."
+      }
+    },
+    {
+      "id": "w_energy_clan_er_medium_laser",
+      "name": "ER Medium Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 1.0,
+      "slots": 1,
+      "heat": 5,
+      "damage": 7,
+      "range": { "min": null, "short": 4, "medium": 8, "long": 12 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 2820,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "The defining core energy weapon of the Clan arsenal, combining extreme range bracket value with punch."
+      }
+    },
+    {
+      "id": "w_energy_is_medium_pulse_laser",
+      "name": "Medium Pulse Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 2.0,
+      "slots": 1,
+      "heat": 4,
+      "damage": 6,
+      "range": { "min": null, "short": 2, "medium": 4, "long": 6 },
+      "to_hit_modifier": -2,
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": ["lostech"],
+      "availability": {
+        "introduced": 2609,
+        "extinct": 2792,
+        "reintroduced": 3037,
+        "notes": "Lostech during the First Succession War. Reintroduced following the recovery of the Helm Memory Core."
+      }
+    },
+    {
+      "id": "w_energy_clan_medium_pulse_laser",
+      "name": "Medium Pulse Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 2.0,
+      "slots": 1,
+      "heat": 4,
+      "damage": 7,
+      "range": { "min": null, "short": 3, "medium": 6, "long": 9 },
+      "to_hit_modifier": -2,
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 2823,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Highly optimized targeting tracking profile offering standard Inner Sphere medium laser range brackets."
+      }
+    },
+    {
+      "id": "w_energy_clan_heavy_medium_laser",
+      "name": "Heavy Medium Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 1.0,
+      "slots": 2,
+      "heat": 7,
+      "damage": 10,
+      "range": { "min": null, "short": 3, "medium": 6, "long": 9 },
+      "to_hit_modifier": 1,
+      "tech_rating": "Advanced",
+      "_comment": "Heavy lasers impose a +1 to-hit penalty due to visual distortion caused by high power throughput.",
+      "flags": [],
+      "availability": {
+        "introduced": 3059,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by Clan Star Adder. Delivers standard PPC-tier damage output packed entirely inside a medium chassis structure."
+      }
+    },
+    {
+      "id": "w_energy_is_medium_x_pulse_laser",
+      "name": "Medium X-Pulse Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 2.0,
+      "slots": 1,
+      "heat": 6,
+      "damage": 6,
+      "range": { "min": null, "short": 3, "medium": 6, "long": 9 },
+      "to_hit_modifier": -2,
+      "tech_rating": "Experimental",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 3057,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by NAIS. Elevates standard pulse laser engagement brackets to the detriment of cooling thresholds."
+      }
+    },
+    {
+      "id": "w_energy_clan_er_medium_pulse_laser",
+      "name": "ER Medium Pulse Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 2.0,
+      "slots": 2,
+      "heat": 6,
+      "damage": 7,
+      "range": { "min": null, "short": 4, "medium": 8, "long": 12 },
+      "to_hit_modifier": -1,
+      "tech_rating": "Experimental",
+      "_comment": "ER Pulse variants yield a reduced accuracy bonus (-1 instead of -2).",
+      "flags": [],
+      "availability": {
+        "introduced": 3057,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by Clan Wolf prior to the Refusal War; high heat generation limited wide structural deployment."
+      }
+    },
+    {
+      "id": "w_energy_clan_medium_chemical_laser",
+      "name": "Medium Chemical Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 1.0,
+      "slots": 1,
+      "heat": 2,
+      "damage": 5,
+      "range": { "min": null, "short": 3, "medium": 6, "long": 9 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Requires ammunition tracking.",
+      "flags": ["requires_ammo"],
+      "availability": {
+        "introduced": 3061,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by Clan Hell's Horses to alleviate structural cooling problems on secondary combat vehicle mounts."
+      }
+    },
+    {
+      "id": "w_energy_is_medium_variable_speed_laser",
+      "name": "Medium VSPL (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 4.0,
+      "slots": 2,
+      "heat": 7,
+      "damage": 9,
+      "range": { "min": null, "short": 2, "medium": 4, "long": 8 },
+      "to_hit_modifier": -3,
+      "tech_rating": "Experimental",
+      "_comment": "Variable Speed Pulse Lasers utilize scaled drop damage curves depending on target distance.",
+      "flags": ["variable_damage"],
+      "availability": {
+        "introduced": 3070,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Word of Blake development. Offers massive precision tracking capabilities at point-blank combat depths."
+      }
+    },
+    {
+      "id": "w_energy_is_large_laser",
+      "name": "Large Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 5.0,
+      "slots": 2,
+      "heat": 8,
+      "damage": 8,
+      "range": { "min": null, "short": 5, "medium": 10, "long": 15 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Introductory",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 2300,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Classic heavy energy baseline option; provides excellent armor penetration without ammo explosion risks."
+      }
+    },
+    {
+      "id": "w_energy_clan_standard_large_laser",
+      "name": "Standard Large Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 4.0,
+      "slots": 1,
+      "heat": 12,
+      "damage": 10,
+      "range": { "min": null, "short": 5, "medium": 10, "long": 15 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "The rare 'Clan Standard' Large Laser matches early ER Large prototypes but retains 3025 brackets.",
+      "flags": ["cache_loot"],
+      "availability": {
+        "introduced": 2810,
+        "extinct": 2870,
+        "reintroduced": null,
+        "notes": "Transitionary weapon built early in the Golden Century. Quickly shelved when the true ER Large Laser went into mass assembly."
+      }
+    },
+    {
+      "id": "w_energy_is_er_large_laser",
+      "name": "ER Large Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 5.0,
+      "slots": 2,
+      "heat": 12,
+      "damage": 8,
+      "range": { "min": null, "short": 7, "medium": 14, "long": 19 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": ["lostech"],
+      "availability": {
+        "introduced": 2620,
+        "extinct": 2785,
+        "reintroduced": 3052,
+        "notes": "Originally a Star League Royal weapon that went extinct during the Early Succession Wars; reverse-engineered by the Combine and League."
+      }
+    },
+    {
+      "id": "w_energy_clan_er_large_laser",
+      "name": "ER Large Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 4.0,
+      "slots": 1,
+      "heat": 12,
+      "damage": 10,
+      "range": { "min": null, "short": 8, "medium": 15, "long": 25 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 2820,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "An incredibly dangerous foundational pillar of Clan long-range combat logistics."
+      }
+    },
+    {
+      "id": "w_energy_is_large_pulse_laser",
+      "name": "Large Pulse Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 7.0,
+      "slots": 3,
+      "heat": 9,
+      "damage": 9,
+      "range": { "min": null, "short": 3, "medium": 7, "long": 10 },
+      "to_hit_modifier": -2,
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": ["lostech"],
+      "availability": {
+        "introduced": 2609,
+        "extinct": 2792,
+        "reintroduced": 3037,
+        "notes": "Lostech during the First Succession War. Reintroduced following the recovery of the Helm Memory Core."
+      }
+    },
+    {
+      "id": "w_energy_clan_large_pulse_laser",
+      "name": "Large Pulse Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 6.0,
+      "slots": 2,
+      "heat": 10,
+      "damage": 10,
+      "range": { "min": null, "short": 4, "medium": 10, "long": 14 },
+      "to_hit_modifier": -2,
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 2823,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Highly prized on elite Clan chassis due to matching standard Inner Sphere large laser range bands with advanced tracking software."
+      }
+    },
+    {
+      "id": "w_energy_clan_heavy_large_laser",
+      "name": "Heavy Large Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 4.0,
+      "slots": 3,
+      "heat": 17,
+      "damage": 16,
+      "range": { "min": null, "short": 5, "medium": 10, "long": 15 },
+      "to_hit_modifier": 1,
+      "tech_rating": "Advanced",
+      "_comment": "Heavy lasers impose a +1 to-hit penalty due to visual distortion caused by high power throughput.",
+      "flags": [],
+      "availability": {
+        "introduced": 3059,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by Clan Star Adder. Offers terrifying raw kinetic punch on par with an AC/20 but strains thermal sinks."
+      }
+    },
+    {
+      "id": "w_energy_is_large_x_pulse_laser",
+      "name": "Large X-Pulse Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 7.0,
+      "slots": 3,
+      "heat": 14,
+      "damage": 9,
+      "range": { "min": null, "short": 5, "medium": 10, "long": 15 },
+      "to_hit_modifier": -2,
+      "tech_rating": "Experimental",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 3057,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by NAIS. Brings pulse laser tracking to classic wide energy engagement brackets while introducing intense thermal strain."
+      }
+    },
+    {
+      "id": "w_energy_clan_er_large_pulse_laser",
+      "name": "ER Large Pulse Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 6.0,
+      "slots": 3,
+      "heat": 13,
+      "damage": 10,
+      "range": { "min": null, "short": 6, "medium": 14, "long": 22 },
+      "to_hit_modifier": -1,
+      "tech_rating": "Experimental",
+      "_comment": "ER Pulse variants yield a reduced accuracy bonus (-1 instead of -2).",
+      "flags": [],
+      "availability": {
+        "introduced": 3057,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by Clan Wolf prior to the Refusal War; complex lens matrices hindered mass dissemination."
+      }
+    },
+    {
+      "id": "w_energy_clan_large_chemical_laser",
+      "name": "Large Chemical Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 5.0,
+      "slots": 3,
+      "heat": 2,
+      "damage": 8,
+      "range": { "min": null, "short": 5, "medium": 10, "long": 15 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Requires ammunition tracking.",
+      "flags": ["requires_ammo"],
+      "availability": {
+        "introduced": 3061,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by Clan Hell's Horses to accommodate heavy weapon configurations on combat armor and vehicles lacking dedicated power plants."
+      }
+    },
+    {
+      "id": "w_energy_is_large_variable_speed_laser",
+      "name": "Large VSPL (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 8.0,
+      "slots": 4,
+      "heat": 10,
+      "damage": 11,
+      "range": { "min": null, "short": 4, "medium": 8, "long": 16 },
+      "to_hit_modifier": -3,
+      "tech_rating": "Experimental",
+      "_comment": "Variable Speed Pulse Lasers utilize scaled drop damage curves depending on target distance.",
+      "flags": ["variable_damage"],
+      "availability": {
+        "introduced": 3070,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Word of Blake development. Delivers massive targeting adjustments when intercepting fast-moving light assets at closer bounds."
+      }
+    },
+    {
+      "id": "w_energy_clan_micro_laser",
+      "name": "Micro Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 0.25,
+      "slots": 1,
+      "heat": 1,
+      "damage": 2,
+      "range": { "min": null, "short": 1, "medium": 2, "long": 3 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "The base Clan Micro Laser shares the exact same range and damage metrics as an Inner Sphere Standard Small Laser but cuts the physical weight profile cleanly in half.",
+      "flags": [],
+      "availability": {
+        "introduced": 3060,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by Clan Smoke Jaguar immediately prior to Operation BULLDOG. Engineered as an ultra-light backup array for point-defense matrices."
+      }
+    },
+    {
+      "id": "w_energy_clan_er_micro_laser",
+      "name": "ER Micro Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 0.25,
+      "slots": 1,
+      "heat": 1,
+      "damage": 2,
+      "range": { "min": null, "short": 1, "medium": 3, "long": 4 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 3061,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by Clan Hell's Horses to push the envelope of ultra-light engagement envelopes without a corresponding increase in infrastructure heat spikes."
+      }
+    },
+    {
+      "id": "w_energy_clan_micro_pulse_laser",
+      "name": "Micro Pulse Laser (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 0.5,
+      "slots": 1,
+      "heat": 1,
+      "damage": 3,
+      "range": { "min": null, "short": 1, "medium": 2, "long": 3 },
+      "to_hit_modifier": -2,
+      "tech_rating": "Advanced",
+      "_comment": "Includes anti-infantry damage scaling properties in accordance with Core rulesets.",
+      "flags": ["anti_infantry"],
+      "availability": {
+        "introduced": 3060,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by Clan Smoke Jaguar. Deployed widely across late-era ProtoMech configurations and battle armor elements for rapid target leading."
+      }
+    },
+    {
+      "id": "w_energy_is_ppc",
+      "name": "PPC (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 7.0,
+      "slots": 3,
+      "heat": 10,
+      "damage": 10,
+      "range": { "min": 3, "short": 6, "medium": 12, "long": 18 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Introductory",
+      "_comment": "Standard Particle Projector Cannon. Imposes a minimum range penalty.",
+      "flags": [],
+      "availability": {
+        "introduced": 2460,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Introduced by the Terran Hegemony. The quintessential heavy energy weapon of the Succession Wars."
+      }
+    },
+    {
+      "id": "w_energy_is_er_ppc",
+      "name": "ER PPC (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 7.0,
+      "slots": 3,
+      "heat": 15,
+      "damage": 10,
+      "range": { "min": null, "short": 7, "medium": 14, "long": 23 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Removes minimum range restriction but significantly increases heat output.",
+      "flags": ["lostech"],
+      "availability": {
+        "introduced": 2751,
+        "extinct": 2790,
+        "reintroduced": 3051,
+        "notes": "Developed for SLDF Royal units. Extinct during the Succession Wars until recovered to combat the Clan Threat."
+      }
+    },
+    {
+      "id": "w_energy_clan_er_ppc",
+      "name": "ER PPC (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 6.0,
+      "slots": 2,
+      "heat": 15,
+      "damage": 15,
+      "range": { "min": null, "short": 7, "medium": 15, "long": 23 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Lighter, more compact, and harder hitting than any Inner Sphere equivalent.",
+      "flags": [],
+      "availability": {
+        "introduced": 2823,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "The gold standard of Clan long-range combat technology."
+      }
+    },
+    {
+      "id": "w_energy_is_light_ppc",
+      "name": "Light PPC (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 3.0,
+      "slots": 2,
+      "heat": 5,
+      "damage": 5,
+      "range": { "min": 3, "short": 6, "medium": 12, "long": 18 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": [],
+      "availability": {
+        "introduced": 3067,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by the Draconis Combine to give lighter platforms long-range punch."
+      }
+    },
+    {
+      "id": "w_energy_is_heavy_ppc",
+      "name": "Heavy PPC (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 10.0,
+      "slots": 4,
+      "heat": 15,
+      "damage": 15,
+      "range": { "min": 3, "short": 6, "medium": 12, "long": 18 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Matches the damage profile of a Clan ER PPC but demands immense tonnage and internal space.",
+      "flags": [],
+      "availability": {
+        "introduced": 3067,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by the Draconis Combine to rival Clan firepower thresholds on assault-weight frames."
+      }
+    },
+    {
+      "id": "w_energy_is_snub_nose_ppc",
+      "name": "Snub-Nose PPC (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 6.0,
+      "slots": 2,
+      "heat": 10,
+      "damage": 10,
+      "range": { "min": null, "short": 9, "medium": 13, "long": 15 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Unique range profile: deals maximum damage at short bracket, dropping to 8 damage at medium and 5 at long.",
+      "flags": ["lostech", "variable_damage"],
+      "availability": {
+        "introduced": 2715,
+        "extinct": 2790,
+        "reintroduced": 3067,
+        "notes": "An ancient Star League project revived concurrently by multiple Great Houses."
+      }
+    },
+    {
+      "id": "w_energy_is_enhanced_er_ppc",
+      "name": "Enhanced ER PPC (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 7.0,
+      "slots": 3,
+      "heat": 15,
+      "damage": 12,
+      "range": { "min": null, "short": 7, "medium": 14, "long": 23 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Experimental",
+      "_comment": "Modified ER PPC architecture incorporating a capacitor array to squeeze out extra damage.",
+      "flags": [],
+      "availability": {
+        "introduced": 3069,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Federated Suns experimental combat enhancement project."
+      }
+    },
+    {
+      "id": "w_energy_clan_standard_ppc",
+      "name": "Standard PPC (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 7.0,
+      "slots": 3,
+      "heat": 10,
+      "damage": 10,
+      "range": { "min": 3, "short": 6, "medium": 12, "long": 18 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Introductory",
+      "_comment": "Early Clan prototype phases saw standard PPC architecture briefly utilized prior to the total production finalization of the Clan ER PPC.",
+      "flags": ["cache_loot"],
+      "availability": {
+        "introduced": 2810,
+        "extinct": 2823,
+        "reintroduced": null,
+        "notes": "Inherited Star League technology baseline manufactured during the early build-up in the Kerensky Cluster. Mothballed entirely when Clan ER PPC mass assembly was perfected."
+      }
+    },
+    {
+      "id": "w_energy_is_flamer",
+      "name": "Flamer (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 1.0,
+      "slots": 1,
+      "heat": 3,
+      "damage": 2,
+      "range": { "min": null, "short": 1, "medium": 2, "long": 3 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Introductory",
+      "_comment": "Standard anti-infantry weapon. Can choose to deal thermal heat directly to target mechs instead of raw armor damage.",
+      "flags": ["anti_infantry", "heat_generation_target"],
+      "availability": {
+        "introduced": 2000,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Ancient technology dating back to the Age of War. Remains a standard asset across all inner sphere tracking hubs."
+      }
+    },
+    {
+      "id": "w_energy_clan_flamer",
+      "name": "Flamer (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 0.5,
+      "slots": 1,
+      "heat": 3,
+      "damage": 2,
+      "range": { "min": null, "short": 1, "medium": 2, "long": 3 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Clan variant halves the weight requirement compared to the Inner Sphere version while maintaining identical tracking loops.",
+      "flags": ["anti_infantry", "heat_generation_target"],
+      "availability": {
+        "introduced": 2820,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Redesigned during the early Clan standardization era to minimize weight allocation protocols."
+      }
+    },
+    {
+      "id": "w_energy_is_heavy_flamer",
+      "name": "Heavy Flamer (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 1.5,
+      "slots": 1,
+      "heat": 5,
+      "damage": 4,
+      "range": { "min": null, "short": 1, "medium": 2, "long": 3 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Requires a dedicated chemical fuel tank system, demanding separate ammunition logging arrays.",
+      "flags": ["anti_infantry", "heat_generation_target", "requires_ammo"],
+      "availability": {
+        "introduced": 3068,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by the Word of Blake during the Jihad to expand extreme close-range thermal destabilization operations."
+      }
+    },
+    {
+      "id": "w_energy_clan_heavy_flamer",
+      "name": "Heavy Flamer (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 1.25,
+      "slots": 1,
+      "heat": 5,
+      "damage": 4,
+      "range": { "min": null, "short": 1, "medium": 2, "long": 3 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Clan heavy alternative requiring dedicated internal payload tanks.",
+      "flags": ["anti_infantry", "heat_generation_target", "requires_ammo"],
+      "availability": {
+        "introduced": 3070,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Introduced by Clan Diamond Shark following battlefield performance evaluations of Word of Blake chemical deployments."
+      }
+    },
+    {
+      "id": "w_energy_is_coolant_flamer",
+      "name": "Coolant Flamer (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 1.0,
+      "slots": 1,
+      "heat": 2,
+      "damage": 0,
+      "range": { "min": null, "short": 1, "medium": 2, "long": 3 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Experimental",
+      "_comment": "Reverses tracking architecture to lower the heat tracking markers of friendly targets when sprayed directly.",
+      "flags": ["cools_target", "requires_ammo"],
+      "availability": {
+        "introduced": 3068,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Experimental logistics variant engineered to support high-thermal brawler strategies."
+      }
+    },
+    {
+      "id": "w_energy_is_plasma_rifle",
+      "name": "Plasma Rifle (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 6.0,
+      "slots": 2,
+      "heat": 6,
+      "damage": 10,
+      "range": { "min": null, "short": 5, "medium": 10, "long": 15 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Requires dedicated plasma ammunition tracking. Deals 10 points of direct kinetic damage and generates an unpredictable 1d6 of localized external thermal heat directly onto the target Mech's engine tracking matrix.",
+      "flags": ["requires_ammo", "heat_generation_target"],
+      "availability": {
+        "introduced": 3068,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed by the Capellan Confederation as a hybrid weapon to shatter armor plates while cooking internal structural components."
+      }
+    },
+    {
+      "id": "w_energy_clan_plasma_cannon",
+      "name": "Plasma Cannon (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 3.0,
+      "slots": 1,
+      "heat": 7,
+      "damage": 0,
+      "range": { "min": null, "short": 6, "medium": 12, "long": 18 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Requires ammunition tracking. Purely thermal suppression mechanism that inflicts a massive 2d6 heat load directly to the target unit instead of tracking structural armor degradation.",
+      "flags": ["requires_ammo", "heat_generation_target"],
+      "availability": {
+        "introduced": 3065,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Engineered by Clan Diamond Shark strictly for battlefield crowd control and crippling high-heat combat elements."
+      }
+    },
+    {
+      "id": "w_energy_is_binary_laser_cannon",
+      "name": "Binary Laser Cannon (Blazer)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 9.0,
+      "slots": 4,
+      "heat": 16,
+      "damage": 12,
+      "range": { "min": null, "short": 4, "medium": 8, "long": 12 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Fuses two standard large laser housings structurally into one over-pressured weapon block.",
+      "flags": ["heavy_chassis_strain"],
+      "availability": {
+        "introduced": 2812,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "A desperate Succession Wars-era design built by the Lyran Commonwealth to simulate heavy particle projection profiles before Star League manufacturing lines could be reclaimed."
+      }
+    },
+    {
+      "id": "w_energy_is_bombast_laser",
+      "name": "Bombast Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 7.0,
+      "slots": 3,
+      "heat": 12,
+      "damage": 12,
+      "range": { "min": null, "short": 5, "medium": 10, "long": 15 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Features variable power dialing. Players can manually scale down charge to fire at 4 damage / 4 heat profiles to manage sinking thresholds, or spike up tracking parameters to full value.",
+      "flags": ["variable_damage", "variable_heat"],
+      "availability": {
+        "introduced": 3064,
+        "extinct": 3084,
+        "reintroduced": null,
+        "notes": "An experimental project developed by the Lyran Alliance. Discontinued after long-term logistics studies proved variable cycling capacitors were prone to total combat failures."
+      }
+    },
+    {
+      "id": "w_energy_is_laser_anti_missile_system",
+      "name": "Laser AMS (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 1.5,
+      "slots": 1,
+      "heat": 5,
+      "damage": 0,
+      "range": { "min": null, "short": 1, "medium": null, "long": null },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Automated interception matrix. Consumes core electrical energy directly from the chassis to burn away missile cluster tracking arcs rather than utilizing a standard physical ammunition reserve box.",
+      "flags": ["point_defense", "energy_ams"],
+      "availability": {
+        "introduced": 3048,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Engineered by the New Avalon Institute of Science to eliminate the volatile internal logistical ammunition dangers inherent to standard baseline missile defense nodes."
+      }
+    },
+    {
+      "id": "w_energy_clan_laser_anti_missile_system",
+      "name": "Laser AMS (Clan)",
+      "tech_base": "Clan",
+      "tonnage": 1.0,
+      "slots": 1,
+      "heat": 5,
+      "damage": 0,
+      "range": { "min": null, "short": 1, "medium": null, "long": null },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Clan variant optimizes tracking loops to strip a half-ton of physical assembly requirements off the mount infrastructure.",
+      "flags": ["point_defense", "energy_ams"],
+      "availability": {
+        "introduced": 2835,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Perfected during the mid-Golden Century era across internal Clan manufacturing hubs."
+      }
+    },
+    {
+      "id": "w_energy_is_reengineered_medium_laser",
+      "name": "Medium Re-engineered Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 2.5,
+      "slots": 1,
+      "heat": 6,
+      "damage": 6,
+      "range": { "min": null, "short": 3, "medium": 6, "long": 9 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "Utilizes specific composite structural pulse adjustments to slice through advanced reactive, reflective, and hardened battle armors without taking traditional damage reduction math modifiers.",
+      "flags": ["ignores_special_armor"],
+      "availability": {
+        "introduced": 3131,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Developed late in the Dark Age era by the Federated Suns to combat the rise of exotic protective armor compounds."
+      }
+    },
+    {
+      "id": "w_energy_is_reengineered_large_laser",
+      "name": "Large Re-engineered Laser (IS)",
+      "tech_base": "Inner Sphere",
+      "tonnage": 8.0,
+      "slots": 5,
+      "heat": 9,
+      "damage": 9,
+      "range": { "min": null, "short": 4, "medium": 8, "long": 12 },
+      "to_hit_modifier": 0,
+      "tech_rating": "Advanced",
+      "_comment": "",
+      "flags": ["ignores_special_armor"],
+      "availability": {
+        "introduced": 3131,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Late Dark Age hard-counter technology built to neutralize heavy armored combat components."
+      }
+    },
+    {
+      "id": "eq_industrial_mining_laser",
+      "name": "Mining Laser",
+      "tech_base": "Inner Sphere",
+      "tonnage": 5.0,
+      "slots": 2,
+      "heat": 12,
+      "damage": 5,
+      "range": { "min": null, "short": 1, "medium": 2, "long": 3 },
+      "to_hit_modifier": 1,
+      "tech_rating": "Introductory",
+      "_comment": "Industrial mining tool. Suffers a +1 to-hit penalty in combat due to commercial tracking apparatus.",
+      "flags": ["industrial_tool"],
+      "availability": {
+        "introduced": 2350,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Ubiquitous civilian mining apparatus utilized widely across the Periphery and Core sectors."
+      }
+    },
+    {
+      "id": "eq_industrial_spot_welder",
+      "name": "Heavy Spot Welder",
+      "tech_base": "Inner Sphere",
+      "tonnage": 2.0,
+      "slots": 1,
+      "heat": 3,
+      "damage": 4,
+      "range": { "min": null, "short": 0, "medium": 1, "long": 2 },
+      "to_hit_modifier": 1,
+      "tech_rating": "Introductory",
+      "_comment": "Point-blank structural welding laser system.",
+      "flags": ["industrial_tool"],
+      "availability": {
+        "introduced": 2300,
+        "extinct": null,
+        "reintroduced": null,
+        "notes": "Standard industrial manufacturing component."
+      }
+    }
+  ]
+}
