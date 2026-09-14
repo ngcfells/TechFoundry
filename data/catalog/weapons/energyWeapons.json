@@ -19,9 +19,9 @@
         "notes": "Standard Star League tech baseline; remains ubiquitous across the Inner Sphere and Periphery."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 291
       }
     },
     {
@@ -43,9 +43,9 @@
         "notes": "Inherited Star League stock and intitial manufacturing runs used during the early Clan eras. Phased out completely during the Golden Century in favor of ER replacements."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 291
       }
     },
     {
@@ -67,9 +67,9 @@
         "notes": "Developed right after Operation KLONDIKE; standardizes as the true Clan backup laser."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 291
       }
     },
     {
@@ -91,9 +91,9 @@
         "notes": "Developed by the Inner Sphere after analyzing captured Clan ER laser optics."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 291
       }
     },
     {
@@ -116,9 +116,9 @@
         "notes": "Lostech during the First Succession War. Reintroduced following the recovery of the Helm Memory Core."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 292
       }
     },
     {
@@ -141,9 +141,9 @@
         "notes": "Significantly lighter and longer-ranged than its Inner Sphere predecessor."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 292
       }
     },
     {
@@ -166,9 +166,9 @@
         "notes": "Developed by Clan Star Adder during the mid-Clan era to maximize close-range damage output."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 101,
+        "page_table": 142
       }
     },
     {
@@ -191,9 +191,9 @@
         "notes": "Developed by NAIS in an effort to stretch Pulse Laser ranges to compete with Clan technology."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 101,
+        "page_table": 142
       }
     },
     {
@@ -216,9 +216,9 @@
         "notes": "Developed by Clan Wolf just prior to the Refusal War; failed to enter widespread production due to shifting resources."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 102,
+        "page_table": 142
       }
     },
     {
@@ -241,9 +241,9 @@
         "notes": "Developed by Clan Hell's Horses for vehicle and ProtoMech use where electrical power infrastructure is scarce."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 100,
+        "page_table": 141
       }
     },
     {
@@ -266,9 +266,9 @@
         "notes": "Ubiquitous, high efficiency baseline weapon; the standard by which all other weapons are judged."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 291
       }
     },
     {
@@ -291,9 +291,9 @@
         "notes": "Inherited Star League stock used during early Clan eras. Completely phased out in favor of the ER Medium Laser."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 291
       }
     },
     {
@@ -316,9 +316,9 @@
         "notes": "Developed by the Inner Sphere to expand mid-range firepower options following the Clan Invasion."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 291
       }
     },
     {
@@ -341,9 +341,9 @@
         "notes": "The defining core energy weapon of the Clan arsenal, combining extreme range bracket value with punch."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 291
       }
     },
     {
@@ -366,9 +366,9 @@
         "notes": "Lostech during the First Succession War. Reintroduced following the recovery of the Helm Memory Core."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 292
       }
     },
     {
@@ -391,9 +391,9 @@
         "notes": "Highly optimized targeting tracking profile offering standard Inner Sphere medium laser range brackets."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 292
       }
     },
     {
@@ -416,9 +416,9 @@
         "notes": "Developed by Clan Star Adder. Delivers standard PPC-tier damage output packed entirely inside a medium chassis structure."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 101,
+        "page_table": 142
       }
     },
     {
@@ -441,9 +441,9 @@
         "notes": "Developed by NAIS. Elevates standard pulse laser engagement brackets to the detriment of cooling thresholds."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 102,
+        "page_table": 142
       }
     },
     {
@@ -466,9 +466,9 @@
         "notes": "Developed by Clan Wolf prior to the Refusal War; high heat generation limited wide structural deployment."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 102,
+        "page_table": 142
       }
     },
     {
@@ -491,9 +491,9 @@
         "notes": "Developed by Clan Hell's Horses to alleviate structural cooling problems on secondary combat vehicle mounts."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 100,
+        "page_table": 141
       }
     },
     {
@@ -516,9 +516,9 @@
         "notes": "Word of Blake development. Offers massive precision tracking capabilities at point-blank combat depths."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 102,
+        "page_table": 143
       }
     },
     {
@@ -541,9 +541,9 @@
         "notes": "Classic heavy energy baseline option; provides excellent armor penetration without ammo explosion risks."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 291
       }
     },
     {
@@ -566,9 +566,9 @@
         "notes": "Transitionary weapon built early in the Golden Century. Quickly shelved when the true ER Large Laser went into mass assembly."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 291
       }
     },
     {
@@ -591,9 +591,9 @@
         "notes": "Originally a Star League Royal weapon that went extinct during the Early Succession Wars; reverse-engineered by the Combine and League."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 291
       }
     },
     {
@@ -616,9 +616,9 @@
         "notes": "An incredibly dangerous foundational pillar of Clan long-range combat logistics."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 291
       }
     },
     {
@@ -641,9 +641,9 @@
         "notes": "Lostech during the First Succession War. Reintroduced following the recovery of the Helm Memory Core."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 292
       }
     },
     {
@@ -666,9 +666,9 @@
         "notes": "Highly prized on elite Clan chassis due to matching standard Inner Sphere large laser range bands with advanced tracking software."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 292
       }
     },
     {
@@ -691,9 +691,9 @@
         "notes": "Developed by Clan Star Adder. Offers terrifying raw kinetic punch on par with an AC/20 but strains thermal sinks."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 101,
+        "page_table": 142
       }
     },
     {
@@ -716,9 +716,9 @@
         "notes": "Developed by NAIS. Brings pulse laser tracking to classic wide energy engagement brackets while introducing intense thermal strain."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 102,
+        "page_table": 142
       }
     },
     {
@@ -741,9 +741,9 @@
         "notes": "Developed by Clan Wolf prior to the Refusal War; complex lens matrices hindered mass dissemination."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 102,
+        "page_table": 142
       }
     },
     {
@@ -766,9 +766,9 @@
         "notes": "Developed by Clan Hell's Horses to accommodate heavy weapon configurations on combat armor and vehicles lacking dedicated power plants."
       },
       "references":{
-        "sourcebook":"",
-        "page_rules": null,
-        "page_table": null
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 100,
+        "page_table": 141
       }
     },
     {
@@ -789,6 +789,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Word of Blake development. Delivers massive targeting adjustments when intercepting fast-moving light assets at closer bounds."
+      },
+      "references":{
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 102,
+        "page_table": 143
       }
     },
     {
@@ -809,6 +814,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by Clan Smoke Jaguar immediately prior to Operation BULLDOG. Engineered as an ultra-light backup array for point-defense matrices."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 227,
+        "page_table": 291
       }
     },
     {
@@ -829,6 +839,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by Clan Hell's Horses to push the envelope of ultra-light engagement envelopes without a corresponding increase in infrastructure heat spikes."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 227,
+        "page_table": 291
       }
     },
     {
@@ -849,6 +864,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by Clan Smoke Jaguar. Deployed widely across late-era ProtoMech configurations and battle armor elements for rapid target leading."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 227,
+        "page_table": 292
       }
     },
     {
@@ -869,6 +889,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Introduced by the Terran Hegemony. The quintessential heavy energy weapon of the Succession Wars."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 233,
+        "page_table": 292
       }
     },
     {
@@ -889,6 +914,11 @@
         "extinct": 2790,
         "reintroduced": 3051,
         "notes": "Developed for SLDF Royal units. Extinct during the Succession Wars until recovered to combat the Clan Threat."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 233,
+        "page_table": 292
       }
     },
     {
@@ -909,6 +939,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "The gold standard of Clan long-range combat technology."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 233,
+        "page_table": 292
       }
     },
     {
@@ -929,6 +964,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by the Draconis Combine to give lighter platforms long-range punch."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 233,
+        "page_table": 292
       }
     },
     {
@@ -949,6 +989,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by the Draconis Combine to rival Clan firepower thresholds on assault-weight frames."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 233,
+        "page_table": 292
       }
     },
     {
@@ -969,6 +1014,11 @@
         "extinct": 2790,
         "reintroduced": 3067,
         "notes": "An ancient Star League project revived concurrently by multiple Great Houses."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 233,
+        "page_table": 292
       }
     },
     {
@@ -989,6 +1039,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Federated Suns experimental combat enhancement project."
+      },
+      "references":{
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 105,
+        "page_table": 143
       }
     },
     {
@@ -1009,6 +1064,11 @@
         "extinct": 2823,
         "reintroduced": null,
         "notes": "Inherited Star League technology baseline manufactured during the early build-up in the Kerensky Cluster. Mothballed entirely when Clan ER PPC mass assembly was perfected."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 233,
+        "page_table": 292
       }
     },
     {
@@ -1029,6 +1089,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Ancient technology dating back to the Age of War. Remains a standard asset across all inner sphere tracking hubs."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 218,
+        "page_table": 291
       }
     },
     {
@@ -1049,6 +1114,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Redesigned during the early Clan standardization era to minimize weight allocation protocols."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 218,
+        "page_table": 291
       }
     },
     {
@@ -1069,6 +1139,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by the Word of Blake during the Jihad to expand extreme close-range thermal destabilization operations."
+      },
+      "references":{
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 97,
+        "page_table": 141
       }
     },
     {
@@ -1089,6 +1164,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Introduced by Clan Diamond Shark following battlefield performance evaluations of Word of Blake chemical deployments."
+      },
+      "references":{
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 97,
+        "page_table": 141
       }
     },
     {
@@ -1109,6 +1189,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Experimental logistics variant engineered to support high-thermal brawler strategies."
+      },
+      "references":{
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 96,
+        "page_table": 141
       }
     },
     {
@@ -1129,6 +1214,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by the Capellan Confederation as a hybrid weapon to shatter armor plates while cooking internal structural components."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 233,
+        "page_table": 292
       }
     },
     {
@@ -1149,6 +1239,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Engineered by Clan Diamond Shark strictly for battlefield crowd control and crippling high-heat combat elements."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 233,
+        "page_table": 292
       }
     },
     {
@@ -1169,6 +1264,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "A desperate Succession Wars-era design built by the Lyran Commonwealth to simulate heavy particle projection profiles before Star League manufacturing lines could be reclaimed."
+      },
+      "references":{
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 100,
+        "page_table": 141
       }
     },
     {
@@ -1189,6 +1289,11 @@
         "extinct": 3084,
         "reintroduced": null,
         "notes": "An experimental project developed by the Lyran Alliance. Discontinued after long-term logistics studies proved variable cycling capacitors were prone to total combat failures."
+      },
+      "references":{
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 100,
+        "page_table": 141
       }
     },
     {
@@ -1209,6 +1314,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Engineered by the New Avalon Institute of Science to eliminate the volatile internal logistical ammunition dangers inherent to standard baseline missile defense nodes."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 213,
+        "page_table": 290
       }
     },
     {
@@ -1229,6 +1339,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Perfected during the mid-Golden Century era across internal Clan manufacturing hubs."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 213,
+        "page_table": 290
       }
     },
     {
@@ -1249,6 +1364,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed late in the Dark Age era by the Federated Suns to combat the rise of exotic protective armor compounds."
+      },
+      "references":{
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 101,
+        "page_table": 142
       }
     },
     {
@@ -1269,6 +1389,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Late Dark Age hard-counter technology built to neutralize heavy armored combat components."
+      },
+      "references":{
+        "sourcebook":"Tactical Operations: Advanced Units & Equipment",
+        "page_rules": 101,
+        "page_table": 142
       }
     },
     {
@@ -1289,6 +1414,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Ubiquitous civilian mining apparatus utilized widely across the Periphery and Core sectors."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 226,
+        "page_table": 291
       }
     },
     {
@@ -1309,6 +1439,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Standard industrial manufacturing component."
+      },
+      "references":{
+        "sourcebook":"TechManual",
+        "page_rules": 245,
+        "page_table": 346
       }
     }
   ]
