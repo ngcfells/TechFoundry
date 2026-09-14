@@ -17,6 +17,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Standard Star League tech baseline; remains ubiquitous across the Inner Sphere and Periphery."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -36,6 +41,11 @@
         "extinct": 2870,
         "reintroduced": null,
         "notes": "Inherited Star League stock and intitial manufacturing runs used during the early Clan eras. Phased out completely during the Golden Century in favor of ER replacements."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -55,6 +65,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed right after Operation KLONDIKE; standardizes as the true Clan backup laser."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -74,6 +89,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by the Inner Sphere after analyzing captured Clan ER laser optics."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -94,6 +114,11 @@
         "extinct": 2792,
         "reintroduced": 3037,
         "notes": "Lostech during the First Succession War. Reintroduced following the recovery of the Helm Memory Core."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -114,6 +139,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Significantly lighter and longer-ranged than its Inner Sphere predecessor."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -134,6 +164,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by Clan Star Adder during the mid-Clan era to maximize close-range damage output."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -154,6 +189,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by NAIS in an effort to stretch Pulse Laser ranges to compete with Clan technology."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -174,6 +214,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by Clan Wolf just prior to the Refusal War; failed to enter widespread production due to shifting resources."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -194,6 +239,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by Clan Hell's Horses for vehicle and ProtoMech use where electrical power infrastructure is scarce."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -214,6 +264,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Ubiquitous, high efficiency baseline weapon; the standard by which all other weapons are judged."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -234,6 +289,11 @@
         "extinct": 2870,
         "reintroduced": null,
         "notes": "Inherited Star League stock used during early Clan eras. Completely phased out in favor of the ER Medium Laser."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -254,6 +314,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by the Inner Sphere to expand mid-range firepower options following the Clan Invasion."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -274,6 +339,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "The defining core energy weapon of the Clan arsenal, combining extreme range bracket value with punch."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -294,6 +364,11 @@
         "extinct": 2792,
         "reintroduced": 3037,
         "notes": "Lostech during the First Succession War. Reintroduced following the recovery of the Helm Memory Core."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -314,6 +389,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Highly optimized targeting tracking profile offering standard Inner Sphere medium laser range brackets."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -334,6 +414,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by Clan Star Adder. Delivers standard PPC-tier damage output packed entirely inside a medium chassis structure."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -354,6 +439,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by NAIS. Elevates standard pulse laser engagement brackets to the detriment of cooling thresholds."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -374,6 +464,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by Clan Wolf prior to the Refusal War; high heat generation limited wide structural deployment."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -394,6 +489,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by Clan Hell's Horses to alleviate structural cooling problems on secondary combat vehicle mounts."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -414,6 +514,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Word of Blake development. Offers massive precision tracking capabilities at point-blank combat depths."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -434,6 +539,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Classic heavy energy baseline option; provides excellent armor penetration without ammo explosion risks."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -454,6 +564,11 @@
         "extinct": 2870,
         "reintroduced": null,
         "notes": "Transitionary weapon built early in the Golden Century. Quickly shelved when the true ER Large Laser went into mass assembly."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -474,6 +589,11 @@
         "extinct": 2785,
         "reintroduced": 3052,
         "notes": "Originally a Star League Royal weapon that went extinct during the Early Succession Wars; reverse-engineered by the Combine and League."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -494,6 +614,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "An incredibly dangerous foundational pillar of Clan long-range combat logistics."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -514,6 +639,11 @@
         "extinct": 2792,
         "reintroduced": 3037,
         "notes": "Lostech during the First Succession War. Reintroduced following the recovery of the Helm Memory Core."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -534,6 +664,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Highly prized on elite Clan chassis due to matching standard Inner Sphere large laser range bands with advanced tracking software."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -554,6 +689,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by Clan Star Adder. Offers terrifying raw kinetic punch on par with an AC/20 but strains thermal sinks."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -574,6 +714,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by NAIS. Brings pulse laser tracking to classic wide energy engagement brackets while introducing intense thermal strain."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -594,6 +739,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by Clan Wolf prior to the Refusal War; complex lens matrices hindered mass dissemination."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
@@ -614,6 +764,11 @@
         "extinct": null,
         "reintroduced": null,
         "notes": "Developed by Clan Hell's Horses to accommodate heavy weapon configurations on combat armor and vehicles lacking dedicated power plants."
+      },
+      "references":{
+        "sourcebook":"",
+        "page_rules": null,
+        "page_table": null
       }
     },
     {
